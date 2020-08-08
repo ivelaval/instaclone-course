@@ -1,0 +1,15 @@
+{
+  "name": "instaclone",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ivan Avila",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.28"
+  }
+}
